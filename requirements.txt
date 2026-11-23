@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+textblob
+scipy
+gensim
+jupyter
